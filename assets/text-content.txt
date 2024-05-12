@@ -1,0 +1,166 @@
+5 section + header & footer - MegaGames
+
+Chat:
+
+Title- Let's Chat!
+
+
+p - "We’ll reply as soon as we can"
+
+
+Header:
+
+- logo (animated)- "MegaGames"
+
+- nav (burger) menu:
+
+-- home
+-- Martian game
+-- games
+-- work with us
+-- news
+
+-----------------------------
+Intro:
+
+-- img (left side)
+-- Main Title - "Join the Game"
+-- p - "Join our community, which already has over 2 million players"
+-- button - "Explore"
+
+-------------------------------
+Martian Quest Game Section
+
+Left:
+
+-- bg image
+-- avatar icon with white outline 
+-- Title 2 - "Martian Quest Wins Mobile Game Awards"
+-- p - "Plunge into a magical world whose action takes place in the distant future. Help Martian escape punishment for stealing a secret that could lead to the downfall of the entire government.  Fight the robo-humans and their servants, find allies and explore the world of the future!"
+
+Right:
+
+-- Title - "Featured" 
+
+- Card with:
+-- Video 
+-- Title - "Martian Quest"
+-- p - "Download and enjoy it now"
+-- button - "Play now"
+
+-----------------------------
+More Games Section
+
+3 cards:
+
+The Unknown Card 
+
+with:
+
+-bg image with:
+-- avatar icon with white outline 
+-- Title - "The Unknown"
+-- p category - "RPG"
+
+&
+-- p - "Download and enjoy it now"
+-- button - "Play now" 
+
+
+Dragons Lair Card:
+
+with:
+
+-bg image with:
+-- avatar icon with white outline 
+-- Title - "Dragons Lair"
+-- p category - "Adventure"
+
+&
+-- p - "Download and enjoy it now"
+-- button - "Play now" 
+
+
+
+Atactic Card:
+
+with:
+
+-bg image with:
+-- avatar icon with white outline 
+-- Title - "Atactic"
+-- p category - "Strategy"
+
+&
+-- p - "Download and enjoy it now"
+-- button - "Play now" 
+
+
+----------------------------------
+About us Section:
+
+Left Side:
+
+-- title "About us"
+-- p - "we are a company that has been developing exciting and modern games for mobile devices for over 7 years"
+-- btn - "Learn More"
+
+Right Side:
+-- bg
+
+----------------------
+A Perfect Gaming Experience Section
+
+Left Side:
+-- bg video
+
+Right Side:
+-- title - "A Perfect Gaming Experience"
+-- p - "Our games are refined and optimized for each device. Minimum game requirements do not exceed 1gb of memory and 4 cores of processor"
+-- btn - "Explore"
+
+---------------------------
+Work with us Section
+
+-- title - "Work with us"
+-- p - "Check our open job openings"
+-- btn - "Open Positions"
+
+---------------------------
+Subscribe Section
+
+-- title - "Subscribe"
+-- p - "Be the first to know about new games, exclusive previews & special promotions"
+-- input emain - "Email address"
+-- btn - "Submit"
+
+---------------------------
+Footer 
+
+4 items
+
+1 item:
+-- logo
+-- title - "We are a company that has been developing exciting and modern games for mobile devices for over 7 years"
+-- p - © "MegaGames" copyright 2023 "Created by Paul Larin"
+
+2 item:
+-- title - "Contacts"
+-- p - "500 Terry Francois Street San Francisco, CA 94158 info@mysite.com Tel: 123-456-7890"
+
+3 item:
+-- title - "Quick Menu"
+-- links:
+- games
+- company
+- careers
+- contact
+
+4 item:
+-- title - "socials"
+links:
+- facebook
+- instagram
+- twitter
+- linkedlin
+- youtube
